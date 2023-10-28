@@ -1,7 +1,8 @@
 # Christmas-Challenge hosted on Kaggle 
 
 Link for the kaggle Challenge : https://www.kaggle.com/competitions/deep-learning-classification-challenge-ws2223/leaderboard
-Image Classification of christmas themed images into 8 classes: 
+
+## Image Classification of christmas themed images into 8 classes: 
 
 
 
