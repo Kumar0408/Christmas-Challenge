@@ -17,3 +17,5 @@ model.py:
 evaluate.py & utils.py
 - Extractions of test images , evaluation , and crating prediction csv file.
 
+Challenge_new_train_loop.ipynb
+- Main script of data loading, model creation and train loop
